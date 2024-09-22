@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: beige;
+}
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    min-width: 100vw;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+buttom {
+    background-color: black;
+    color: white;
+}
